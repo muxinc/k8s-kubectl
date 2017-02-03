@@ -6,6 +6,7 @@
 
 # Supported tags and respective `Dockerfile` links
 * `1.5.2`, `latest`    [(1.5.2/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.5.2/Dockerfile)
+* `v1.6.0-alpha.1`,     [(v1.6.0-alpha.1/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.6.0-alpha.1/Dockerfile)
 * `1.4.8`,     [(1.4.8/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.4.8/Dockerfile)
 * `1.3.10`,    [(1.3.10/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.3.10/Dockerfile)
 * `1.2.6`,     [(1.2.6/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.2.6/Dockerfile)
